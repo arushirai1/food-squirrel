@@ -1,2 +1,2 @@
-web: gunicorn app/__init__.py:app
+web: gunicorn run.py:app
 
